@@ -26,12 +26,12 @@
 						
 -PvP:					Schwere Munition wird für alle verfügbar sobald sie spawned. Nimmt ein Spieler sich die schwere Munition so kann sich sein Team für 3 Sekunden an dieser Munition bedienen. (1x pro Spieler)
 						Quickplay und Competetive werden entfernt. Es gibt einen Classic-Mix welches Quickplay ersetzt und es gibt 3v3 Überleben welches den Competetive Modus ersetzt.
-						6v6 Kontrolle wird eine eigenen Playlist. Zudem gibt es zwei neue Playlists die sich täglich/wöchentlich ändern. Eine davon ist 6v6 und eine ist 4v4.
+						6v6 Kontrolle wird eine eigene Playlist. Zudem gibt es zwei neue Playlists die sich täglich/wöchentlich ändern. Eine davon ist 6v6 und eine ist 4v4.
 						Eliminierung wird als neuer Spielmodus hinzugefügt.
 						Matchmaking wird überarbeitet sodass man im Classic-Mix das Gefühl erhällt dass man nicht in der Überleben Playlist spielt aber auch nicht in einem Bot-Spiel.
-						Das Matchmaking außerhalb der Classic-Mix Playlist ist abhängig vom persönlichen Skill.
+						Das Matchmaking außerhalb der Classic-Mix Playlist ist abhängig vom persönlichen Können.
 						
--Seasons:				Content der durch eine Season eingefürt wird verschwinden mit Ende der Season. Jede Season wird 10 Wochen andauern. Somit 4 Seasons in einem Jahr.
+-Seasons:				Content der durch eine Season eingefürt wird verschwindet mit Ende der Season. Jede Season wird 10 Wochen andauern. Somit 4 Seasons in einem Jahr.
 						Loot der in einer Season erspielbar ist verschwindet ebenfalls mit Ende der Season wird aber später nach ca. einer Season wieder erspielbar sein.
 						Seasons können für 10$ gekauft werden und sind unabhängig von früherem Content spielbar.
 						Jede Season hat einen "Battle Pass" dieser ist für alle Spieler verfügbar. Spieler die allerdings die Season gekauft haben, haben zusätzlich einen Premium Pass.
@@ -59,11 +59,11 @@ NEU:
 								-Zwei Everversum Engramme
 								-Glimmer und Upgrade Module (Upgrade Module sind kostenlose Infundierungen)
 						
--Artefakte:				Startet auf Level 1 und wird jede Season zurückgesetzt. Max Level ist vorraussichtlich 10.
+-Artefakte:				Startet auf Level 1 und wird jede Season zurückgesetzt. Ein maximales Level ist hierbei nicht gegeben.
 						Artefakte haben spezielle Fähigkeiten:
 							       -Durch aufleveln des Artefakts können bis zu 12 Mods innerhalb des Artefakts freigeschaltet werden die dann auch auf Rüstungen gelegt werden können.
 							       -Erhört das Licht Level ohne in die Rüstund oder Waffen einzugreifen abhänig davon welches Level das Artefakt hat.
 								   
 -Finisher:				Finisher sind Angriffe auf Gegner die sehr wenig Leben haben und fast tot sind. Diese Angriffe sind an bestimmte Animationen gebunden und können ohne Cooldown ausgeführt werden.
-						Finisher bekommen durch das Artefakt Eigenschaften die zum Beispiel bei erfolgreichem Ausführen eines Finishers schwere Munition fallen lässt oder das Leben und Schild regeneriert.
-						Man ist während eines Finishers nicht unsterblich. Es ist also möglich während man einen Finisher ausführt zu sterben bevor dieser komplett ausgeführt ist.
+						Finisher bekommen durch das Artefakt Eigenschaften die zum Beispiel bei erfolgreichem Ausführen eines Finishers schwere Munition fallen lassen oder das Leben und Schild regeneriert.
+						Man ist während eines Finishers nicht unsterblich. Es ist also möglich während man einen Finisher ausführt zu sterben bevor dieser komplett ausgeführt wurde.
