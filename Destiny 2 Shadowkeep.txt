@@ -1,7 +1,9 @@
 ÄNDERUNGEN:
--Licht Level:			Erhöht von 750 auf 900.
-						Ab 900 weiter mit XP bis 950. (Artefakt)
-						Ab 950 nur durch spezielle Aktivitäten erhöhbar. (Dafür aber in Richtung unendlich)
+-Licht Level:			Maximum erhöht von 750 auf 960.
+						Softcap bis 950.
+						Ab 900 auf 950 durch mächtige Belohnungen.
+						Ab 950 auf 960 nur durch spezielle Aktivitäten erhöhbar.
+						Ab 960 erhöht nur das Artefakt, welches in Richtung unendlich gelevelt werden kann, das Licht Level.
 						
 -Rüstung 2.0:			Rüstungen droppen mit Energylevel und Stats anstatt mit Mods und Perks.
 						Mods und Perks sind permanent freigeschaltet sobald man sie einmal hatte.
