@@ -26,7 +26,7 @@
 						
 -Buffs:					Buffs und Debuffs addieren sich nicht mehr. Es zählt immer nur der stärkste Buff oder Debuff. (Waffen Perks sind nicht betroffen)
 						
--PvP:					Schwere Munition wird für alle verfügbar sobald sie spawned. Nimmt ein Spieler sich die schwere Munition so kann sich sein Team für 3 Sekunden an dieser Munition bedienen. (1x pro Spieler)
+-PvP:					Schwere Munition wird für alle verfügbar sobald sie spawned. Nimmt ein Spieler sich die schwere Munition so kann sich sein Team für 7 Sekunden an dieser Munition bedienen. (1x pro Spieler)
 						Quickplay und Competetive werden entfernt. Es gibt einen Classic-Mix welches Quickplay ersetzt und es gibt 3v3 Überleben welches den Competetive Modus ersetzt.
 						6v6 Kontrolle wird eine eigene Playlist. Zudem gibt es zwei neue Playlists die sich täglich/wöchentlich ändern. Eine davon ist 6v6 und eine ist 4v4.
 						Eliminierung wird als neuer Spielmodus hinzugefügt.
